@@ -1,0 +1,9 @@
+# train and val data
+train: C:/Users/User/Documents/yolov5-main/dataset/image/train
+val: C:/Users/User/Documents/yolov5-main/dataset/image/val/
+
+# number of classes
+nc: 4
+
+# class names
+names: ['speed limit', 'yield', 'mandatory', 'other']
